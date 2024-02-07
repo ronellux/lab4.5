@@ -1,1 +1,34 @@
 /* Add screen styles below */
+body {
+    background: #FBBA72;
+}
+
+div.header {
+    background: #691E06;
+    padding: 20px;
+    width: 1390px;
+    border-radius: 20px;
+}
+
+img{
+    float: left;
+}
+
+.about-ronell{
+    margin: 0 auto;
+
+}
+
+.below {
+    margin: 0 auto;
+}
+
+div {
+    background: #FBBA72;
+    
+    width: 615px;
+}
+
+div.bio{
+        margin: 0 auto;
+    }
