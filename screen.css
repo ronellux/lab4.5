@@ -5,22 +5,35 @@ body {
 
 div.header {
     background: #691E06;
-    padding: 20px;
-    width: 1390px;
-    border-radius: 20px;
+    padding: 5px;
+    width: 1410px;
+    margin-right: 20px;
+    border-radius: 5px;
+    color: white;
+    font
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 img{
     float: left;
+    border-radius: 20px;
+    width: 198px;
+    margin: 10px;
+    padding: 10px;
+    
 }
 
 .about-ronell{
     margin: 0 auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    margin-top: 20px;
 
 }
 
 .below {
     margin: 0 auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 div {
@@ -31,4 +44,5 @@ div {
 
 div.bio{
         margin: 0 auto;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     }
