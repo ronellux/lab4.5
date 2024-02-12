@@ -5,12 +5,11 @@ body {
 
 div.header {
     background: #691E06;
-    padding: 5px;
+    padding: 10px;
     width: 1410px;
     margin-right: 20px;
     border-radius: 5px;
     color: white;
-    font
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
